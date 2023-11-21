@@ -1,0 +1,5 @@
+1.  ip install pyinstaller
+2.  python .\main.txt
+3.  pyinstaller main.txt
+OR  pyinstaller --onefile file.py    
+4.  .\main.exe

@@ -1,0 +1,13 @@
+findall:    It finds all searches for matches and prints resultant in the form of a list.
+
+search:     It works the same as a findall, but the resultant is a matched object if any is found.
+
+split:      The split function splits the string from every matched into two new strings.
+
+sub:        The sub-function works exactly like a replace function in notepad or MS Word. 
+            It replaces the original word with a word of our choice.
+
+finditer:   The finditer yields an iterator as a resultant with all the objects that match the one 
+            we sent it) finditer supports more attributes than any other function defined above. 
+            It also provides more details related to the matched object. So, most
+            of the examples we are going to see next will contain a finditer function in them.

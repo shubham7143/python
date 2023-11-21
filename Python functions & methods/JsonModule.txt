@@ -1,0 +1,13 @@
+load(): This method is used to load data from a JSON file into a python dictionary.
+Loads(): This method is used to load data from a JSON variable into a python dictionary.
+dump(): This method is used to load data from the python dictionary to the JSON file.
+dumps(): This method is used to load data from the python dictionary to the JSON variable.
+
+JSON	    PYTHON
+true     	true
+false   	false
+string     	string
+number	    number
+array    	list, tuple
+object 	    dict
+null      	none
